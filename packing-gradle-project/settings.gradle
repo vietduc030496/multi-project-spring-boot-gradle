@@ -1,0 +1,4 @@
+rootProject.name = 'packing-gradle-project'
+rootProject.name = 'parent'
+includeFlat 'first-gradle-project'
+includeFlat 'second-gradle-project'
